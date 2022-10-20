@@ -22,4 +22,6 @@ Here are some ideas to get you started:
   SQL
   Power BI
   Мат статистика 
-
+### Контакты:
+#### 📫: Sabina.ustk@gmail.com
+#### 📞: +7(705)497-22-45
